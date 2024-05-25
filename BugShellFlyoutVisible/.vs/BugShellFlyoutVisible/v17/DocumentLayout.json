@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Denis\\source\\repos\\BugShellFlyoutVisible\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{950CDBC5-9AEB-47B0-B65C-C1E92F1C685B}|BugShellFlyoutVisible\\BugShellFlyoutVisible.csproj|c:\\users\\denis\\source\\repos\\bugshellflyoutvisible\\bugshellflyoutvisible\\mainipageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950CDBC5-9AEB-47B0-B65C-C1E92F1C685B}|BugShellFlyoutVisible\\BugShellFlyoutVisible.csproj|solutionrelative:bugshellflyoutvisible\\mainipageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950CDBC5-9AEB-47B0-B65C-C1E92F1C685B}|BugShellFlyoutVisible\\BugShellFlyoutVisible.csproj|c:\\users\\denis\\source\\repos\\bugshellflyoutvisible\\bugshellflyoutvisible\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{950CDBC5-9AEB-47B0-B65C-C1E92F1C685B}|BugShellFlyoutVisible\\BugShellFlyoutVisible.csproj|solutionrelative:bugshellflyoutvisible\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950CDBC5-9AEB-47B0-B65C-C1E92F1C685B}|BugShellFlyoutVisible\\BugShellFlyoutVisible.csproj|c:\\users\\denis\\source\\repos\\bugshellflyoutvisible\\bugshellflyoutvisible\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{950CDBC5-9AEB-47B0-B65C-C1E92F1C685B}|BugShellFlyoutVisible\\BugShellFlyoutVisible.csproj|solutionrelative:bugshellflyoutvisible\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950CDBC5-9AEB-47B0-B65C-C1E92F1C685B}|BugShellFlyoutVisible\\BugShellFlyoutVisible.csproj|c:\\users\\denis\\source\\repos\\bugshellflyoutvisible\\bugshellflyoutvisible\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950CDBC5-9AEB-47B0-B65C-C1E92F1C685B}|BugShellFlyoutVisible\\BugShellFlyoutVisible.csproj|solutionrelative:bugshellflyoutvisible\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950CDBC5-9AEB-47B0-B65C-C1E92F1C685B}|BugShellFlyoutVisible\\BugShellFlyoutVisible.csproj|c:\\users\\denis\\source\\repos\\bugshellflyoutvisible\\bugshellflyoutvisible\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950CDBC5-9AEB-47B0-B65C-C1E92F1C685B}|BugShellFlyoutVisible\\BugShellFlyoutVisible.csproj|solutionrelative:bugshellflyoutvisible\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950CDBC5-9AEB-47B0-B65C-C1E92F1C685B}|BugShellFlyoutVisible\\BugShellFlyoutVisible.csproj|c:\\users\\denis\\source\\repos\\bugshellflyoutvisible\\bugshellflyoutvisible\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{950CDBC5-9AEB-47B0-B65C-C1E92F1C685B}|BugShellFlyoutVisible\\BugShellFlyoutVisible.csproj|solutionrelative:bugshellflyoutvisible\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\source\\repos\\BugShellFlyoutVisible\\BugShellFlyoutVisible\\MainPage.xaml",
+              "RelativeDocumentMoniker": "BugShellFlyoutVisible\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Denis\\source\\repos\\BugShellFlyoutVisible\\BugShellFlyoutVisible\\MainPage.xaml",
+              "RelativeToolTip": "BugShellFlyoutVisible\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T14:39:00.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\source\\repos\\BugShellFlyoutVisible\\BugShellFlyoutVisible\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "BugShellFlyoutVisible\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Denis\\source\\repos\\BugShellFlyoutVisible\\BugShellFlyoutVisible\\MainPage.xaml.cs",
+              "RelativeToolTip": "BugShellFlyoutVisible\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:37:42.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\source\\repos\\BugShellFlyoutVisible\\BugShellFlyoutVisible\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "BugShellFlyoutVisible\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Denis\\source\\repos\\BugShellFlyoutVisible\\BugShellFlyoutVisible\\AppShell.xaml.cs",
+              "RelativeToolTip": "BugShellFlyoutVisible\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:36:51.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainipageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\source\\repos\\BugShellFlyoutVisible\\BugShellFlyoutVisible\\MainipageViewModel.cs",
+              "RelativeDocumentMoniker": "BugShellFlyoutVisible\\MainipageViewModel.cs",
+              "ToolTip": "C:\\Users\\Denis\\source\\repos\\BugShellFlyoutVisible\\BugShellFlyoutVisible\\MainipageViewModel.cs",
+              "RelativeToolTip": "BugShellFlyoutVisible\\MainipageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:35:15.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\source\\repos\\BugShellFlyoutVisible\\BugShellFlyoutVisible\\Page2.xaml",
+              "RelativeDocumentMoniker": "BugShellFlyoutVisible\\Page2.xaml",
+              "ToolTip": "C:\\Users\\Denis\\source\\repos\\BugShellFlyoutVisible\\BugShellFlyoutVisible\\Page2.xaml",
+              "RelativeToolTip": "BugShellFlyoutVisible\\Page2.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T14:34:13.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\source\\repos\\BugShellFlyoutVisible\\BugShellFlyoutVisible\\AppShell.xaml",
+              "RelativeDocumentMoniker": "BugShellFlyoutVisible\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Denis\\source\\repos\\BugShellFlyoutVisible\\BugShellFlyoutVisible\\AppShell.xaml",
+              "RelativeToolTip": "BugShellFlyoutVisible\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T02:16:49.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
